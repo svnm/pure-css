@@ -1,6 +1,6 @@
 # pure-css
 
-[![npm version](https://badge.fury.io/js/react-search.svg)](https://badge.fury.io/js/react-search)
+[![npm version](https://badge.fury.io/js/pure-css.svg)](https://badge.fury.io/js/pure-css)
 
 A [css module](https://github.com/css-modules/css-modules) compatible version of [purecss](https://github.com/yahoo/pure/).
 
