@@ -8,21 +8,7 @@ You will need to use [react-css-modules](https://github.com/gajus/react-css-modu
 
 It would be possible to make a version compatible to just css modules, however most implementations of a virtual dom should have a higher order component for allowing normal class names and this will be the future direction for css modules. 
 
-It could also be an approach to rewrite the current style names in pure to be more compatible with css modules, although again they would probably not be camelCase.
-
-That may be something to consider, however may need some discussion with the developers at purecss to ensure they are on board with a new version being written as currently the css source here is just a straight copy from purecss 0.6.0 cdn exported as modules for use in components.
-
-This would mean instead of css styleNames like this:
-
-```jsx
-<button styleName='pure-button pure-button-disabled'>A Disabled Button</button>
-```
-
-we could write:
-
-```jsx
-<button styleName='button-disabled'>A Disabled Button</button>
-```
+It could also be an approach to rewrite the current style names in pure to be more compatible with css modules, see [issue #1](https://github.com/StevenIseki/pure-css/issues/1).
 
 ## Installation
 
