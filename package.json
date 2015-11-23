@@ -1,6 +1,6 @@
 {
   "name": "pure-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A css module compatible version of purecss",
   "main": "index.js",
   "repository": {
