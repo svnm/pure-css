@@ -1,0 +1,27 @@
+{
+  "name": "pure-css",
+  "version": "1.0.0",
+  "description": "A css module compatible version of purecss",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/pure-css.git"
+  },
+  "keywords": [
+    "pure",
+    "purecss",
+    "css",
+    "css-module",
+    "css module",
+    "react",
+    "reactjs",
+    "react-component"
+  ],
+  "authors": [
+    "ericf <edf@ericf.me>",
+    "tilomitra <tilomitra@gmail.com>",
+    "msweeney <matt.sweeney@yahoo.com>",
+    "jamesalley <manalagi001@yahoo.com>"
+  ],
+  "license": "MIT"
+}
