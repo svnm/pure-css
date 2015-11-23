@@ -10,6 +10,10 @@ It would be possible to make a version compatible to just css modules, however m
 
 It could also be an approach to rewrite the current style names in pure to be more compatible with css modules, see [issue #1](https://github.com/StevenIseki/pure-css/issues/1).
 
+## Version
+
+#### `1.0.1` uses purecss `0.6.0`
+
 ## Installation
 
 `npm install pure-css --save-dev`
