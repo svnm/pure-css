@@ -32,7 +32,7 @@ Then use it for styling your elements.
 
 ## Example
 
-Check out the full working example [here]()
+Check out the full working example [here](https://github.com/StevenIseki/pure-css/tree/master/example)
 
 ```jsx
 import React from 'react'
