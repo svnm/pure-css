@@ -20,7 +20,7 @@
     "express": "^4.13.3",
     "extract-text-webpack-plugin": "^0.9.1",
     "postcss-loader": "^0.7.0",
-    "pure-css": "^1.0.1",
+    "pure-css": "^1.0.3",
     "raw-loader": "^0.5.1",
     "redux-devtools": "^2.1.5",
     "style-loader": "^0.13.0",
